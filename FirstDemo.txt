@@ -1,5 +1,6 @@
-���ǲ����ı�
+﻿���ǲ����ı�
 
 ������
 ���
 creat the first branch"new master"
+## learn under the new branch
